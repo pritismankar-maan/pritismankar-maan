@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pritismankar-maan
 - 👀 I’m interested in Robotics, computer vision and machine learning.
-- 🌱 I’m currently learning implement Robotics Algorithms in ROS,C++ and MATLAB.
+- 🌱 I’m currently learning to implement Robotics Algorithms in ROS,C++ and MATLAB.
 - 💞️ I’m looking to collaborate on software projects related to Robotics.
 - 📫 How to reach me: Email me at - kar.pritisman@gmail.com
 
